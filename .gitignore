@@ -25,3 +25,5 @@ replay_pid*
 
 /dist/
 /target/
+
+.vscode/
